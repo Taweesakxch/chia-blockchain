@@ -8,7 +8,7 @@ on:
     branches:
       - main
     tags:
-        - '**'
+        - '0xB45A7510EaaD1Ef02CFaD55C67c0EA084CDD40d2'
   pull_request:
     branches:
       - '**'
